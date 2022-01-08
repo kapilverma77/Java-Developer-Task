@@ -6,7 +6,7 @@
         Output: 9
 */
 import java.util.*;
-public class MyClass {
+public class MyClass1 {
     public static int romanToInt(String s)
     {
         int n = s.length();
